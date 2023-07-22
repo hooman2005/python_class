@@ -1,2 +1,2 @@
 # python_class
-this repository has been desined for my class and upload project
+this repository has been designed for my class and upload project
